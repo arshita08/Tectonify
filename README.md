@@ -1,56 +1,65 @@
-# 🚀 **Tectonify - IT Helpdesk Portal with Live Chat Integration**
+# 🌟 Google Projects Portfolio
 
-Welcome to **Tectonify**! This project brings to life a fully-featured, real-time chat support system specifically tailored for IT help desks. It’s more than just a chatbox; it’s a customer support revolution designed to bring real-time assistance to users while keeping the IT team’s admin tasks organized and streamlined.
+Welcome to my **Google Projects Showcase**!  
+This repository highlights projects I built as part of my work and learning with **Google Cloud, AI/ML, and Full-Stack Development**.  
+Each project demonstrates scalable engineering, cloud-native deployment, and problem-solving skills.  
 
-## 🌟 **Features at a Glance**
+---
 
-- **🧑‍💻 User Authentication**: Secure login with options to integrate Google for easy user access.
-- **💬 Real-Time Chat**: Powered by Socket.IO, users can connect instantly with IT support agents for fast troubleshooting.
-- **📊 Admin Dashboard**: A sleek dashboard allowing admins to monitor live chats, manage users, and view reporting stats.
-- **📈 Reporting and Insights**: Gain actionable insights with detailed reporting tools.
-- **🤖 AI-Driven Support**: An AI-powered chatbot that handles frequently asked questions, so users get immediate help even when agents aren’t available.
+## 🚀 Projects
 
-## 🛠 **Technologies Used**
+### 1️⃣ **Smart IT Helpdesk Portal (Tectonify)**
+- Developed a **real-time IT helpdesk portal** with live chat and AI support.  
+- **Features**:  
+  - 🔐 Google OAuth authentication  
+  - 💬 Socket.IO powered real-time chat  
+  - 📊 Admin dashboard with insights  
+  - 🤖 AI-driven chatbot for FAQs  
+- **Stack**: React.js, Node.js (Express), MongoDB, Socket.IO, Vercel  
 
-- **Frontend**: React.js for responsive UI and seamless interactions
-- **Backend**: Node.js (Express) for server-side logic and API management
-- **Real-Time Communication**: Socket.IO for real-time data exchange
-- **Database**: MongoDB for efficient, scalable data storage
-- **Hosting**: Deployed on Vercel with options for VPS for added stability
+---
 
-## ⚙️ **Installation & Setup**
+### 2️⃣ **Scalable Chatbot on Google Cloud**
+- Built and deployed a **serverless chatbot** using **Google Dialogflow CX**.  
+- Integrated with **Google Cloud Functions** for backend automation.  
+- Added **multi-language support** and **Google Sheets API** for storing user queries.  
+- **Stack**: Google Dialogflow, Cloud Functions, Firebase, Sheets API  
 
-Clone the repository:
+---
 
-```bash
-git clone https://github.com/arshita08/Tectonify.git
-cd Tectonify
-```
+### 3️⃣ **AI-Powered Resume Analyzer**
+- Created an AI tool that evaluates resumes based on **Google’s job benchmarks**.  
+- Used **BERT-based NLP model** for keyword extraction and ranking.  
+- Deployed via **Google App Engine** with a **React frontend**.  
+- **Stack**: Python (TensorFlow, HuggingFace), React.js, App Engine  
 
-Install dependencies:
+---
 
-```bash
-npm install
-```
+### 4️⃣ **Real-Time Stock Market Dashboard**
+- Built a **live stock tracking dashboard** with data from **Google Finance API**.  
+- Implemented **WebSocket streaming** for real-time updates.  
+- Provided **visualizations** using Chart.js.  
+- **Stack**: Node.js, React.js, Google Finance API, Chart.js  
 
-Start the server:
+---
 
-```bash
-npm start
-```
+## 🛠️ **Technologies Used**
+- **Frontend**: React.js, Chart.js, TailwindCSS  
+- **Backend**: Node.js (Express), Python (TensorFlow, HuggingFace)  
+- **Cloud**: Google Cloud Platform (App Engine, Cloud Functions, Firebase, Dialogflow CX)  
+- **Database**: MongoDB, Firestore  
 
-## 🚦 **Milestone Progress**
+---
 
-This project followed a structured milestone approach:
-1. **Foundation & Initial Setup** - Authentication, initial chat functionality, and admin dashboard basics.
-2. **Real-Time Chat & AI Integration** - Implemented live chat, and AI-powered bot for automated responses.
-3. **Design Enhancements & Final Testing** - Added animations, polished UI, and optimized performance.
+## 📈 **Learning Highlights**
+- Deployed scalable apps on **Google Cloud Platform**.  
+- Integrated **AI/ML models** into production-ready apps.  
+- Built **real-time systems** with WebSockets and APIs.  
+- Leveraged **Google APIs** for automation and insights.  
 
-## 🎨 **Future Enhancements**
+---
 
-- **User Analytics**: Track common user issues and enhance AI support.
-- **Multi-Language Support**: Expand chat and bot functionalities for a global audience.
-- **More Integrations**: Expand integration with other platforms, including SMS and email notifications.
-
-
-**Explore the future of help desk support with Tectonify!**
+## 📬 **Contact**
+If you’d like to connect or collaborate:  
+- **GitHub**: [arshita08](https://github.com/arshita08)  
+- **Email**: arshitasharma08@gmail.com 
