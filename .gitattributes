@@ -1,5 +1,17 @@
+# Ignore frontend assets from GitHub language stats
 *.html linguist-detectable=false
 *.css linguist-detectable=false
+*.json linguist-detectable=false
+*.ico linguist-detectable=false
 *.heic linguist-detectable=false
 *.jpg linguist-detectable=false
+*.jpeg linguist-detectable=false
 *.png linguist-detectable=false
+*.svg linguist-detectable=false
+*.webp linguist-detectable=false
+
+# Mark source code files as detectable
+*.js linguist-detectable=true
+*.jsx linguist-detectable=true
+*.ts linguist-detectable=true
+*.tsx linguist-detectable=true
