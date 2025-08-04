@@ -1,0 +1,19 @@
+{
+  "name": "tectonify-main-2",
+  "version": "1.0.0",
+  "description": "Welcome to **Tectonify**! This project brings to life a fully-featured, real-time chat support system specifically tailored for IT help desks. It’s more than just a chatbox; it’s a customer support revolution designed to bring real-time assistance to users while keeping the IT team’s admin tasks organized and streamlined.",
+  "main": "index-CEMa932Y.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^6.18.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "socket.io": "^4.8.1"
+  }
+}
