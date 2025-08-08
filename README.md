@@ -1,7 +1,4 @@
-# 🌟 Google Projects Portfolio
-
-Welcome to my **Google Projects Showcase**!  
-This repository highlights projects I built as part of my work and learning with **Google Cloud, AI/ML, and Full-Stack Development**.  
+# 🌟 This repository highlights projects I built as part of my work and learning with **Google Cloud, AI/ML, and Full-Stack Development**.  
 Each project demonstrates scalable engineering, cloud-native deployment, and problem-solving skills.  
 
 ---
